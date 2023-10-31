@@ -1,0 +1,4 @@
+C:\Users\SMART\source\repos\WindowProject\WindowProject\Debug\WindowProject.vcxproj.AssemblyReference.cache
+C:\Users\SMART\source\repos\WindowProject\WindowProject\Debug\WindowProject.MyForm.resources
+C:\Users\SMART\source\repos\WindowProject\WindowProject\Debug\WindowProject.vcxproj.GenerateResource.cache
+C:\Users\SMART\source\repos\WindowProject\WindowProject\Debug\WindowProject.MyForm1.resources
